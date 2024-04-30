@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/zhu/cis2_ws/install/cisst_ros_crtk/include/**",
+        "/home/zhu/cis2_ws/install/crtk_msgs/include/**",
+        "/home/zhu/cis2_ws/install/cisst_ros_bridge/include/**",
+        "/home/zhu/cis2_ws/install/cisst_msgs/include/**",
+        "/home/zhu/ros_ign/install/ign_ros2_control/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/zhu/cis2_ws/src/cisst-saw/cisst-ros/cisst_ros_bridge/include/**",
+        "/home/zhu/cis2_ws/src/cisst-saw/cisst-ros/cisst_ros_crtk/include/**",
+        "/home/zhu/cis2_ws/src/cisst-saw/cisstNetlib/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

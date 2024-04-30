@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/zhu/cis2_ws/install/port_pyqt/lib/python3.10/site-packages",
+        "/home/zhu/cis2_ws/install/crtk_python_client/local/lib/python3.10/dist-packages",
+        "/home/zhu/cis2_ws/install/crtk_msgs/local/lib/python3.10/dist-packages",
+        "/home/zhu/cis2_ws/install/cisst_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/zhu/cis2_ws/install/port_pyqt/lib/python3.10/site-packages",
+        "/home/zhu/cis2_ws/install/crtk_python_client/local/lib/python3.10/dist-packages",
+        "/home/zhu/cis2_ws/install/crtk_msgs/local/lib/python3.10/dist-packages",
+        "/home/zhu/cis2_ws/install/cisst_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
