@@ -11,7 +11,7 @@ class MinimalPublisher(Node):
         super().__init__('minimal_publisher')
         self.publisher_ = self.create_publisher(PoseStamped, '/NDI/Pointer/measured_cp', 10)
         timer_period = 5  # seconds
-        self.ref_points_p = self.read_ref_markers_ct('/home/zhu/cis2/Study4/Shape.mrk.json')
+        self.ref_points_p = self.read_ref_markers_ct('/Shape.mrk.json')
         self.timer = self.create_timer(timer_period, self.timer_callback)
         self.i = 0
 
