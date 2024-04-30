@@ -1,0 +1,200 @@
+ackermann-msgs==2.0.2
+action-msgs==1.2.1
+action-tutorials-interfaces==0.20.3
+action-tutorials-py==0.20.3
+actionlib-msgs==4.2.3
+actuator-msgs==0.0.1
+ament-cmake-test==1.3.8
+ament-copyright==0.12.10
+ament-cppcheck==0.12.10
+ament-cpplint==0.12.10
+ament-flake8==0.12.10
+ament-index-python==1.4.0
+ament-lint==0.12.10
+ament-lint-cmake==0.12.10
+ament-package==0.14.0
+ament-pep257==0.12.10
+ament-uncrustify==0.12.10
+ament-xmllint==0.12.10
+angles==1.15.0
+archspec @ file:///croot/archspec_1697725767277/work
+boltons @ file:///work/perseverance-python-buildout/croot/boltons_1698851177130/work
+bond==3.0.2
+Brotli @ file:///work/perseverance-python-buildout/croot/brotli-split_1698805593785/work
+builtin-interfaces==1.2.1
+certifi @ file:///croot/certifi_1707229174982/work/certifi
+cffi @ file:///croot/cffi_1700254295673/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+composition-interfaces==1.2.1
+conda @ file:///croot/conda_1708369113911/work
+conda-content-trust @ file:///work/perseverance-python-buildout/croot/conda-content-trust_1698882886606/work
+conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1702997573971/work/src
+conda-package-handling @ file:///work/perseverance-python-buildout/croot/conda-package-handling_1698851267218/work
+conda_package_streaming @ file:///work/perseverance-python-buildout/croot/conda-package-streaming_1698847176583/work
+control-msgs==4.4.0
+controller-manager==2.40.0
+controller-manager-msgs==2.40.0
+cryptography @ file:///croot/cryptography_1702070282333/work
+cv-bridge==3.2.1
+demo-nodes-py==0.20.3
+diagnostic-msgs==4.2.3
+diagnostic-updater==3.1.2
+distro @ file:///work/perseverance-python-buildout/croot/distro_1701732366176/work
+domain-coordinator==0.10.0
+dwb-msgs==1.1.14
+example-interfaces==0.9.3
+examples-rclpy-executors==0.15.1
+examples-rclpy-minimal-action-client==0.15.1
+examples-rclpy-minimal-action-server==0.15.1
+examples-rclpy-minimal-client==0.15.1
+examples-rclpy-minimal-publisher==0.15.1
+examples-rclpy-minimal-service==0.15.1
+examples-rclpy-minimal-subscriber==0.15.1
+generate-parameter-library-py==0.3.8
+geometry-msgs==4.2.3
+idna @ file:///work/perseverance-python-buildout/croot/idna_1698845632828/work
+image-geometry==3.2.1
+interactive-markers==2.3.2
+irobot-create-common-bringup==2.1.0
+irobot-create-msgs==2.1.0
+joint-state-publisher==2.4.0
+joint-state-publisher-gui==2.4.0
+jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
+jsonpointer==2.1
+laser-geometry==2.4.0
+launch==1.0.5
+launch-ros==0.19.7
+launch-testing==1.0.5
+launch-testing-ros==0.19.7
+launch-xml==1.0.5
+launch-yaml==1.0.5
+libmambapy @ file:///work/perseverance-python-buildout/croot/mamba-split_1701744133524/work/libmambapy
+lifecycle-msgs==1.2.1
+logging-demo==0.20.3
+map-msgs==2.1.0
+menuinst @ file:///croot/menuinst_1706732933928/work
+message-filters==4.3.3
+nav-2d-msgs==1.1.14
+nav-msgs==4.2.3
+nav2-common==1.1.14
+nav2-msgs==1.1.14
+nav2-simple-commander==1.0.0
+networkx==3.3
+numpy==1.26.4
+osrf-pycommon==2.0.2
+packaging @ file:///work/perseverance-python-buildout/croot/packaging_1698805390494/work
+pcl-msgs==1.0.0
+pendulum-msgs==0.20.3
+platformdirs @ file:///work/perseverance-python-buildout/croot/platformdirs_1701732573265/work
+pluggy @ file:///work/perseverance-python-buildout/croot/pluggy_1698805497733/work
+pycosat @ file:///work/perseverance-python-buildout/croot/pycosat_1698863456259/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+PySocks @ file:///work/perseverance-python-buildout/croot/pysocks_1698845478203/work
+python-qt-binding==1.1.2
+qt-dotgraph==2.2.3
+qt-gui==2.2.3
+qt-gui-cpp==2.2.3
+qt-gui-py-common==2.2.3
+quality-of-service-demo-py==0.20.3
+rcl-interfaces==1.2.1
+rclpy==3.3.12
+rcutils==5.1.5
+realsense2-camera-msgs==4.54.1
+requests @ file:///croot/requests_1707355572290/work
+resource-retriever==3.1.1
+rmw-dds-common==1.6.0
+ros-gz-interfaces==0.244.14
+ros-ign-interfaces==0.244.14
+ros2-controllers-test-nodes==2.34.0
+ros2action==0.18.9
+ros2bag==0.15.9
+ros2cli==0.18.9
+ros2component==0.18.9
+ros2controlcli==2.40.0
+ros2doctor==0.18.9
+ros2interface==0.18.9
+ros2launch==0.19.7
+ros2lifecycle==0.18.9
+ros2multicast==0.18.9
+ros2node==0.18.9
+ros2param==0.18.9
+ros2pkg==0.18.9
+ros2run==0.18.9
+ros2service==0.18.9
+ros2topic==0.18.9
+rosbag2-interfaces==0.15.9
+rosbag2-py==0.15.9
+rosgraph-msgs==1.2.1
+rosidl-adapter==3.1.5
+rosidl-cli==3.1.5
+rosidl-cmake==3.1.5
+rosidl-generator-c==3.1.5
+rosidl-generator-cpp==3.1.5
+rosidl-generator-py==0.14.4
+rosidl-parser==3.1.5
+rosidl-runtime-py==0.9.3
+rosidl-typesupport-c==2.0.1
+rosidl-typesupport-cpp==2.0.1
+rosidl-typesupport-fastrtps-c==2.2.2
+rosidl-typesupport-fastrtps-cpp==2.2.2
+rosidl-typesupport-introspection-c==3.1.5
+rosidl-typesupport-introspection-cpp==3.1.5
+rpyutils==0.2.1
+rqt-action==2.0.1
+rqt-bag==1.1.4
+rqt-bag-plugins==1.1.4
+rqt-console==2.0.3
+rqt-graph==1.3.0
+rqt-gui==1.1.7
+rqt-gui-py==1.1.7
+rqt-msg==1.2.0
+rqt-plot==1.1.2
+rqt-publisher==1.5.0
+rqt-py-common==1.1.7
+rqt-py-console==1.0.2
+rqt-reconfigure==1.1.2
+rqt-robot-monitor==1.0.5
+rqt-service-caller==1.0.5
+rqt-shell==1.0.2
+rqt-srv==1.0.3
+rqt-topic==1.5.0
+ruamel.yaml @ file:///work/perseverance-python-buildout/croot/ruamel.yaml_1698863605521/work
+scipy==1.13.0
+sensor-msgs==4.2.3
+sensor-msgs-py==4.2.3
+setuptools==68.2.2
+shape-msgs==4.2.3
+slam-toolbox==2.6.8
+smclib==3.0.2
+sros2==0.10.4
+statistics-msgs==1.2.1
+std-msgs==4.2.3
+std-srvs==4.2.3
+stereo-msgs==4.2.3
+teleop-twist-keyboard==2.4.0
+tf2-geometry-msgs==0.25.6
+tf2-kdl==0.25.6
+tf2-msgs==0.25.6
+tf2-py==0.25.6
+tf2-ros-py==0.25.6
+tf2-tools==0.25.6
+theora-image-transport==2.5.1
+topic-monitor==0.20.3
+tqdm @ file:///work/perseverance-python-buildout/croot/tqdm_1701735729845/work
+trajectory-msgs==4.2.3
+trimesh==4.3.1
+truststore @ file:///work/perseverance-python-buildout/croot/truststore_1701735771625/work
+turtlebot4-msgs==1.0.4
+turtlebot4-navigation==1.0.4
+turtlebot4-python-tutorials==1.0.1
+turtlesim==1.4.2
+unique-identifier-msgs==2.2.1
+ur-dashboard-msgs==2.2.11
+ur-msgs==2.0.0
+ur-robot-driver==2.2.11
+urllib3 @ file:///croot/urllib3_1707770551213/work
+vision-msgs==4.1.1
+visualization-msgs==4.2.3
+wheel==0.41.2
+xacro==2.0.8
+zstandard @ file:///work/perseverance-python-buildout/croot/zstandard_1698847073368/work
